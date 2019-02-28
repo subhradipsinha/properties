@@ -1,0 +1,16 @@
+URL = https://www.facebook.com
+
+Email= //*[@id="email"]
+email = s@gmail.com
+
+Password =//*[@id="pass"]
+pass = subhradip@123
+
+Login = //*[@id="u_0_2"]
+
+Massage =//*[@id="email"]
+massage = Please enter the correct Username and password
+Photo = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLRikI_3WY_EDBlTt5wtUHWnjfqAnWuLvpcHmJcipH_yXNYpJrtg
+Button =//*[@id="loginbutton"]
+
+//*[@id="globalContainer"]/div[3]/div/div/div
